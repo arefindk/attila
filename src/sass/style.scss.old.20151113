@@ -317,13 +317,6 @@ img {
 	display: none;
 }
 
-.image-div > img {
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
-}
-
 @keyframes fadein {
 	0% {
 	    opacity: .2;
